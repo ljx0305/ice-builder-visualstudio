@@ -232,12 +232,6 @@
     <Content Include="Resources\IceBuilder.Tasks.dll">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Resources\IceBuilder.VS2012.dll">
-      <IncludeInVSIX>true</IncludeInVSIX>
-    </Content>
-    <Content Include="Resources\IceBuilder.VS2013.dll">
-      <IncludeInVSIX>true</IncludeInVSIX>
-    </Content>
     <Content Include="Resources\IceBuilder.VS2015.dll">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
